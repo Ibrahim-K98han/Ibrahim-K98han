@@ -7,7 +7,7 @@ I’m a Flutter Developer. I have a passion for learning and sharing my knowledg
 
 I Love flutter.
 
-Skills: Dart/C/C++/Flutter
+Skills: Dart/C/C++/Flutter/PHP
 
 - 🔭 I’m currently working on Techno Art Software 
 - 🌱 I’m currently learning Flutter 
