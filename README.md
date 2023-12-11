@@ -9,7 +9,6 @@ I Love flutter.
 
 Skills: Dart/C/C++/Flutter/PHP
 
-- 🔭 I’m currently working on Techno Art Software 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Flutter Development 
