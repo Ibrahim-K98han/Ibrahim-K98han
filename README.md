@@ -78,6 +78,7 @@
 </p>
 
 <br/>
+## GitHub Stats:
 <hr/>
 <br/>
 
