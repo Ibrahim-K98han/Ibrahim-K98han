@@ -79,8 +79,6 @@
 
 <br/>
 ## GitHub Stats:
-<br/>
-
 <p align="center">
   <a href="https://github.com/Ibrahim-K98han">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-K98han&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
