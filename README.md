@@ -79,13 +79,13 @@
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Ibrahim-K98han">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-K98han&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Ibrahim-K98han">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-K98han&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
